@@ -1,0 +1,22 @@
+.hero{
+    color: white;
+    height: 40rem;
+width: 100vw;
+}
+.left{
+    height: 40rem;
+    width: 50vw;
+    padding-top: 15rem;
+    padding-left: 6.2rem;
+}
+.herosectionh1{ 
+    font-size: 1.8rem;
+}
+.herosectionh1 span{
+    color: aqua;
+
+}
+.stack{
+    font-size: 1.8rem;
+
+}
