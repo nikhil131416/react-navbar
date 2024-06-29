@@ -1,6 +1,7 @@
 .hero{
     color: white;
     height: 40rem;
+    display: flex;
 width: 100vw;
 }
 .left{
@@ -14,6 +15,12 @@ width: 100vw;
 }
 .herosectionh1 span{
     color: aqua;
+
+}
+.img1{
+height: 30rem;
+padding-top: 9rem;
+padding-left: 10rem;
 
 }
 .stack{
